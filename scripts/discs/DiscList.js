@@ -1,5 +1,5 @@
-import { discSliced } from "./discDataProvider.js"
-import { discAsHTML } from "./disc.js"
+import {discSliced} from "./DiscDataProvider.js"
+import {DiscAsHTML} from "./Disc.js"
 
 export const discList = () => {
   const discArray = discSliced()

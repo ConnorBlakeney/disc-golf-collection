@@ -1,0 +1,27 @@
+{
+  "discs": [
+    {
+      "brand": "Discraft Buzzz",
+      "type": "mid-range",
+      "color": "pink",
+      "weight": 177,
+      "id": 1
+    },
+
+    {
+      "brand": "Axiom Envy",
+      "type": "putter",
+      "color": "white with blue rim",
+      "weight": 172,
+      "id": 2
+    },
+
+    {
+      "brand": "Innova Mako3",
+      "type": "mid-range",
+      "color": "blue",
+      "weight": 172,
+      "id": 3
+    }
+  ]
+}

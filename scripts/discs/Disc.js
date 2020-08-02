@@ -1,4 +1,4 @@
-export const discAsHTML = (discObj) => {
+export const DiscAsHTML = (discObj) => {
   ;`
     <section class="disc">
         <div class="disc__brand">${discObj.brand}</div>
