@@ -1,7 +1,7 @@
 import {useDiscs, getDiscs} from "./DiscDataProvider.js"
 import {DiscAsHTML} from "./Disc.js"
 
-const contentTarget = document.querySelector(".discs")
+const contentTarget = document.querySelector(".discsContainer")
 const eventHub = document.querySelector(".container")
 
 const render = (discs) => {
