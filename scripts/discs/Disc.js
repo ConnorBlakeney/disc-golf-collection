@@ -1,5 +1,5 @@
 export const DiscAsHTML = (discObj) => {
-  ;`
+  return `
     <section class="disc">
         <div class="disc__brand">${discObj.brand}</div>
         <div class="disc__type">${discObj.type}</div>

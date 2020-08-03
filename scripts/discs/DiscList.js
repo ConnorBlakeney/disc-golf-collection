@@ -6,9 +6,7 @@ const eventHub = document.querySelector(".container")
 
 const render = (discs) => {
   contentTarget.innerHTML = discs
-    .map((discObject) => {
-      return DiscAsHTML(discObject)
-    })
+    .map((discObject) => DiscAsHTML(discObject))
     .join("")
 }
 
